@@ -1,4 +1,4 @@
-package testgit;
+package test0012;
 
 public class tester_git {
 public static void main(String[] args) {
